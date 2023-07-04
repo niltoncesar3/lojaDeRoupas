@@ -334,7 +334,7 @@ header.sticky{
     color: #555;
     font-size: var(--normal-font);
     font-weight: 600;
-    transition: all .35s ease;
+    transition: all .34s ease;
 }
 
 .main-contact li a:hover{
