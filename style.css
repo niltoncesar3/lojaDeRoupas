@@ -443,7 +443,7 @@ header.sticky{
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 376px) {
     .header-icons{
         display: inline-flex;
         width: 28%;
@@ -455,7 +455,6 @@ header.sticky{
 
     .home-text h1{
         font-size: 3rem;
-        margin-left: 1.5rem;
     }
 
 }
