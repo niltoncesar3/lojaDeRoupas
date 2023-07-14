@@ -389,13 +389,16 @@ header.sticky{
     #menu-icon{
         display: block;
         cursor: pointer;
+        width: 50%;
     }
 
     .header-icons{
         display: inline-flex;
+        width: 50%;
     }
 
     .navlist{
+        width: 50%;
         border-radius: 15px;
         position: absolute;
         top: 100%;
@@ -417,5 +420,17 @@ header.sticky{
 
     .navlist.open{
         left: 0;
+    }
+
+    .top{
+        width: 30%;
+    }
+
+    .home-text h1{
+        font-size: 3rem;
+    }
+
+    .home-text span{
+        font-size: 2.5rem;
     }
 }
