@@ -435,10 +435,10 @@ header.sticky{
     }
 }
 
-@media (max-width: 420px) {
+@media (max-width: 400px) {
     .header-icons{
         display: inline-flex;
-        width: 25%;
+        width: 28%;
     }
 
     .home{
