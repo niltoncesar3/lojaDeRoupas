@@ -444,9 +444,11 @@ header.sticky{
 }
 
 @media (max-width: 376px) {
+
     .header-icons{
         display: inline-flex;
         width: 28%;
+        margin: 0;
     }
 
     .home{
@@ -455,6 +457,10 @@ header.sticky{
 
     .home-text h1{
         font-size: 3rem;
+    }
+
+    section{
+        overflow-x: hidden;
     }
 
 }
