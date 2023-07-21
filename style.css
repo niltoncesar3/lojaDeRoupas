@@ -443,7 +443,7 @@ header.sticky{
     }
 }
 
-@media (max-width: 376px) {
+@media (max-width: 390px) {
 
     .header-icons{
         display: inline-flex;
